@@ -63,16 +63,15 @@ If you have any questions, please contact me at <yongbiao_xiao_jnu@163.com>.
 If this work is helpful to you, please cite it as (BibTeX):
 
 ```
-@Article{s23187870,
-AUTHOR = {Li, Hui and Xiao, Yongbiao and Cheng, Chunyang and Song, Xiaoning},
-TITLE = {SFPFusion: An Improved Vision Transformer Combining Super Feature Attention and Wavelet-Guided Pooling for Infrared and Visible Images Fusion},
-JOURNAL = {Sensors},
-VOLUME = {23},
-YEAR = {2023},
-NUMBER = {18},
-ARTICLE-NUMBER = {7870},
-URL = {https://www.mdpi.com/1424-8220/23/18/7870},
-ISSN = {1424-8220},
+@article{li2023sfpfusion,
+  title={SFPFusion: An Improved Vision Transformer Combining Super Feature Attention and Wavelet-Guided Pooling for Infrared and Visible Images Fusion},
+  author={Li, Hui and Xiao, Yongbiao and Cheng, Chunyang and Song, Xiaoning},
+  journal={Sensors},
+  volume={23},
+  number={18},
+  pages={7870},
+  year={2023},
+  publisher={MDPI}
 }
 ```
 
