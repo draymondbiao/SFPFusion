@@ -2,7 +2,7 @@
 
 This is the code of the paper titled as "SFPFusion: An Improved Vision Transformer Combining Super Feature Attention and Wavelet-Guided Pooling for Infrared and Visible Images Fusion". 
 
-The paper can be found [here](https://www.mdpi.com/1424-8220/23/18/7870#)
+The paper is accepted by Sensors and can be found [here](https://www.mdpi.com/1424-8220/23/18/7870#)
 
 # Framework
 
